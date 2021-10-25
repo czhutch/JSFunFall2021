@@ -7,3 +7,7 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let timesFive = (num) => {
+    return 5 * num;
+};

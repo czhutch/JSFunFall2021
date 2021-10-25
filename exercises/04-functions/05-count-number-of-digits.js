@@ -6,3 +6,11 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let num = 4529;
+let countNumberOfDigits = (num) => {
+         /*num.toString().length;*/
+         return num.toString().length; 
+     };
+countNumberOfDigits(4529);
+

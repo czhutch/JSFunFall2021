@@ -9,3 +9,20 @@ let actualBMI = 27; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*let isNotAtGoalWeight = false;
+if (targetBMI === actualBMI) {
+    isNotAtGoalWeight = false;
+    } else (targetBMI !== actualBMI) {
+        isNotAtGoalWeight = true;
+    }*/
+/*let isNotAtGoalWeight = false;
+    if (targetBMI === actualBMI) {
+        console.log(isNotAtGoalWeight);
+    } else {
+        console.log("true");
+    }*/
+
+let isNotAtGoalWeight = false;
+    if (targetBMI !== actualBMI) {
+        isNotAtGoalWeight = true;
+    }  

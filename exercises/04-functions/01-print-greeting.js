@@ -6,3 +6,6 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let printGreeting = (firstName) => {
+    return("Hello" + " " + firstName + "!");
+}

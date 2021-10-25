@@ -11,3 +11,13 @@ let fullName = "John smith"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*let newFullName = fullName.replace(/(^\w{1})|(\s+\w{1})/g, letter=> letter.toUpperCase());*/
+
+/*let capLastName = fullName[0].toUpperCase() + " " + fullName.substring(0).toUpperCase();*/
+
+/*let capLastName = fullName[" ",0].toUpperCase();*/
+
+
+
+
+

@@ -19,3 +19,8 @@ let letter = "i"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*let characterPosition = firstName.at(1);*/
+/*let characterPosition = firstName.indexOf("i");*/
+
+let characterPosition = firstName.indexOf(letter);
+

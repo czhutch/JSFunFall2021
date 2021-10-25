@@ -9,3 +9,6 @@ const str = "bananas"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*const strLength = str[str.length];*/
+/*const strLength = str.length[0];*/
+const strLength = str.length;

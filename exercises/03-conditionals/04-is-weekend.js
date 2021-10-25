@@ -9,3 +9,10 @@ let day = "Saturday";
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+let isWeekend = true;
+if (day === "Saturday" || day === "Sunday") {
+    console.log("Saturday" || "Sunday");
+} 
+    else { isWeekend = false;
+        console.log("Not Weekend");   
+} 

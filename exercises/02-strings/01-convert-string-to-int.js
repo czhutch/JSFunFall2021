@@ -6,3 +6,21 @@ let answer = "55"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+/*let answerNumber = parseInt(answer);*/
+
+/*let answerNumber = Number(answer);*/
+
+/*let answerNumber = parseInt(answer, 10);*/
+
+/*let answerNumber = Number("55");*/
+
+/*let answerNumber = Math.floor(answer);*/
+
+/*let integer = Number(answer);*/
+answer = parseInt(answer);
+
+
+
+
+
+
